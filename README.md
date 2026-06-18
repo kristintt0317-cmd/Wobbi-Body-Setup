@@ -47,11 +47,6 @@ WOBBI-ROBOT/
 │
 ├── Python/
 │   └── wobbi_voice_control.py
-│
-└── Video/
-    ├── move_01.MP4
-    ├── move_02.MP4
-    └── move_voice.MP4
 ```
 
 ---
