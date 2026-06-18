@@ -4,6 +4,7 @@
 The project explores how a small physical robot can express personality through walking, wobbling, weight shifting, and simple voice-triggered interaction.
 
 This repository documents the final physical gait prototype, including Arduino gait control, laptop-based voice control, project images, and demo videos.
+https://youtu.be/k7S-Folz8xo?is=TMVo5F2W0x4pdpDF
 
 ---
 
