@@ -235,6 +235,13 @@ To run the Arduino code:
 6. Type one of the commands above and press Enter.
 
 ---
+## Python Setup
+
+Install all required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Voice Control
 
