@@ -1,0 +1,8 @@
+pyserial          # serial / Arduino COM port communication
+SpeechRecognition # voice command recognition
+pyaudio           # laptop microphone input
+
+opencv-python     # cv2 camera window and image processing
+numpy             # depth image array processing
+ultralytics       # YOLO person detection
+pyorbbecsdk       # Orbbec depth camera SDK
